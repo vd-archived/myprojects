@@ -1,0 +1,11 @@
+<#import "/WEB-INF/free_marker/themes/frontend.ftl" as design>
+<#assign page_title = "What we do?">
+<@design.page_template page_title=page_title>
+<h2 class="page-heading">${page_title}</h2>
+<p class="text-justify"><strong>HTS Exclusive:</strong> Get the latest stories from HT Syndication’s own publications – Government News, NGO Feeds and Daily Health Digest. While the Government News covers all the press releases offered by government departments of the US, UK, India, Australia and Srilanka, NGO Feeds delve deep into the world of non-profit organizations dedicated to the cause of social development. Our Health Daily Digest brings to you the top 50 health stories from around the world.</p>
+<p class="text-justify"><strong>Content Distribution:</strong>  HT Syndication’s growing list of content alliances in the US, South Asia and India places it in the unique position to provide daily content packages across a wide range of content areas, including news, financial information, US federal news to specialized event packages of travel, health, movies, education, books, real estate, jobs, sports, lifestyle etc.</p>
+<p class="text-justify">We at HT Syndication can provide you licensed content from multiple publishers without negotiating multiple contracts. Licensed content from HT Syndication maintains corporate credibility and avoids legal copyright infringement liability. This would not only bring down the editorial and infrastructure costs for your esteemed publication, but would also ensure high quality and constant availability of content for your revered audiences, thereby increasing the page-views and eventually the revenues.</p>
+<p class="text-justify"><strong>Newsletters:</strong> We have a team of experts working on exclusive newsletters on subjects like NGO and health. We can also develop customized newsletters for our clients as and when required.</p>
+<p class="text-justify"><strong>Content Outsourcing:</strong>  Our content services team can write customized and SEO-optimized news and content for blogs and other platforms.</p>
+<@design.footer_know_our_services/>
+</@design.page_template> 

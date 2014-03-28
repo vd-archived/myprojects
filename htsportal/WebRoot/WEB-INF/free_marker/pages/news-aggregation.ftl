@@ -1,0 +1,12 @@
+<#import "/WEB-INF/free_marker/themes/frontend.ftl" as design>
+<#assign page_title = "News Aggregation">
+<@design.page_template page_title=page_title>
+<h2 class="page-heading">${page_title}</h2>
+<p class="text-justify">If you are looking for a content resource that is <strong>amazingly diverse</strong>, <strong>authentic</strong> to the core, qualitatively of <strong>world class</strong> and disarmingly <strong>simple and fair in dealings</strong>, you have landed at the right place. You can liken this website to a <strong>huge river of content</strong> that combines hundreds of smaller tributaries from around the world so that our clients/readers don’t have to run here and there for their needs.</p>
+<p class="text-justify"><img src="${webroot}images/publication_collage_medium.png" class="side-image" />If you are a publication willing to reach out to the world for greater exposure, you can count on our <strong>formidable reader base</strong>, which we have created painstakingly over a period of more than 90 years of our existence in the media sector. Sourcing your content through Hindustan Times will also impart your articles a <strong>remarkable credibility and influence</strong>.</p>
+<p class="text-justify">As a <strong>fair market player</strong>, we take every precaution to retain your <strong>brand identity</strong> and attribution as your content is routed through us. In contrast, your brand will get a significant boost and awareness, when your articles will reach to millions of readers in association with Hindustan Times.</p>
+<p class="text-justify">That’s not all! You will start earning much more <strong>royalties</strong> without any additional efforts with your content getting more exposure. If you are not comfortable offering your assets to the wider public, you can very well chose the option to license your content to closed, password-protected, subscription-based information databases only.</p>
+<p class="text-justify">We use an advance level of technology - customisable to the clients&apos; requirements, like xml deliveries - that has helped us emerge as a leader and a formidable force in the content and image syndication market.</p>
+
+<@design.footer_know_our_services/>
+</@design.page_template> 
