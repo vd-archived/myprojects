@@ -1,0 +1,578 @@
+<form>
+	<div class="logo-container">
+		<div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+			<div class="logo">
+				<a href="index.html">
+					<img src="img/logo-transparent.png" class="img-rounded" />
+				</a>
+			</div>
+		</div><!-- /.col-lg-6 -->
+		<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+			<div class="input-group">
+				<input type="text" class="form-control input-lg search-text"
+					placeholder="Your Keywords" />
+				<span class="input-group-btn">
+					<select class="input input-lg search-select">
+						<option>ARTICLE</option>
+						<option value="IMAGE">IMAGE</option>
+					</select>
+				</span>
+				<span class="input-group-btn">
+					<button class="btn btn-default input-lg search-btn" type="button">
+						<i class="fa fa-search"></i>
+					</button>
+				</span>
+			</div><!-- /input-group -->
+		</div><!-- /.col-lg-6 -->
+	</div>
+
+	<div class="col-xs-12 col-sm-3 col-md-2">
+		<div class="filter-box">
+			<h1 class="filter-header">Publication</h1>
+			<ul class="filter-list nav nav-pills nav-stacked">
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="australia" />
+								Australia
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="austria" />
+								Austria
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="belgium" />
+								Belgium
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="brazil" />
+								Brazil
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="canada" />
+								Canada
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="denmark" />
+								Denmark
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="finland" />
+								Finland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="france" />
+								France
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="germany" />
+								Germany
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="greece" />
+								Greece
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="ireland" />
+								Ireland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="israel" />
+								Israel
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="italy" />
+								Italy
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="japan" />
+								Japan
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="luxembourg" />
+								Luxembourg
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="mexico" />
+								Mexico
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="netherlands" />
+								Netherlands
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="norway" />
+								Norway
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="poland" />
+								Poland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="portugal" />
+								Portugal
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="russia" />
+								Russia
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="spain" />
+								Spain
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="sweden" />
+								Sweden
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="switzerland" />
+								Switzerland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="turkey" />
+								Turkey
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-kingdom" />
+								United Kingdom
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-states" />
+								United States
+							</label>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="filter-box">
+			<h1 class="filter-header">Source</h1>
+			<ul class="filter-list nav nav-pills nav-stacked">
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="luxembourg" />
+								Luxembourg
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="mexico" />
+								Mexico
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="netherlands" />
+								Netherlands
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="norway" />
+								Norway
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="poland" />
+								Poland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="portugal" />
+								Portugal
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="russia" />
+								Russia
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="spain" />
+								Spain
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="sweden" />
+								Sweden
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="switzerland" />
+								Switzerland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="turkey" />
+								Turkey
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-kingdom" />
+								United Kingdom
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-states" />
+								United States
+							</label>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="filter-box">
+			<h1 class="filter-header">Category</h1>
+			<ul class="filter-list nav nav-pills nav-stacked">
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="luxembourg" />
+								Luxembourg
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="mexico" />
+								Mexico
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="netherlands" />
+								Netherlands
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="norway" />
+								Norway
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="poland" />
+								Poland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="portugal" />
+								Portugal
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="russia" />
+								Russia
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="spain" />
+								Spain
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="sweden" />
+								Sweden
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="switzerland" />
+								Switzerland
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="turkey" />
+								Turkey
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-kingdom" />
+								United Kingdom
+							</label>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" value="united-states" />
+								United States
+							</label>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div><!-- /.col-lg-6 -->
+</form>
